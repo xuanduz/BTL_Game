@@ -295,7 +295,6 @@ GameObject:
   - component: {fileID: 129107244}
   - component: {fileID: 129107243}
   - component: {fileID: 129107245}
-  - component: {fileID: 129107246}
   m_Layer: 0
   m_Name: Platform_01
   m_TagString: Untagged
@@ -394,18 +393,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 5, y: 2}
   m_EdgeRadius: 0
---- !u!114 &129107246
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 129107242}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5613b6a52381754cae27200d85f3f67, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &142165724
 GameObject:
   m_ObjectHideFlags: 0
@@ -807,8 +794,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 453058777}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.9293, y: -0.12, z: 0}
-  m_LocalScale: {x: 0.22093038, y: 0.2500517, z: 1}
+  m_LocalPosition: {x: 7.0128, y: -0.12, z: 0}
+  m_LocalScale: {x: 0.18615595, y: 0.22687191, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
